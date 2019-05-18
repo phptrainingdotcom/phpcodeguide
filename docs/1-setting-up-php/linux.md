@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Mac
-nav_order: 1
+title: Linux
+nav_order: 3
 parent: Setting up PHP
 has_children: false
-permalink: /setting-up-php/mac
+permalink: /setting-up-php/linux
 ---

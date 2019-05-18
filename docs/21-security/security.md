@@ -1,7 +1,7 @@
 ---
 layout: default
-title: JSON and API
-nav_order: 21
+title: Security
+nav_order: 22
 has_children: true
-permalink: json-and-api
+permalink: security
 ---
