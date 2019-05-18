@@ -1,8 +1,7 @@
-_config.yml
-_site
-.sass-cache
-.jekyll-cache/
-.jekyll-metadata
 .idea
 *.gem
+.bundle
+.sass-cache
+_site
 Gemfile.lock
+node_modules
