@@ -56,3 +56,4 @@ search_enabled: true
 aux_links:
   "Contribute on GitHub":
     - "//github.com/phptrainingdotcom/phpcodeguide"
+

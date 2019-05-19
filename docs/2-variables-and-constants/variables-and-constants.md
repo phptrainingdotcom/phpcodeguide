@@ -17,3 +17,4 @@ Variables are used to store integer, strings, boolean, decimals, Objects etc.
 *   Variables once define can change value or data type.
 *   Variables starts with `$` sign.
 *   Assignment Operator `=` is used to assign valuie to variables.
+
